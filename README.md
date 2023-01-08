@@ -1,3 +1,10 @@
+<!--
+Emotion - Material UI - Axios - React-Router
+
+https://v5-0-6.mui.com/getting-started/installation/
+https://gist.github.com/adrianhajdin/9725da94fa1f08c9668d856d3c94dd47
+ -->
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
